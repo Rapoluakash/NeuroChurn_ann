@@ -16,7 +16,7 @@ tf.__version__
 import numpy as np
 import pandas as pd
 
-dataset=pd.read_csv('/content/Churn_Modelling.csv')
+dataset=pd.read_csv('Churn_Modelling.csv')
 
 dataset.head()
 
